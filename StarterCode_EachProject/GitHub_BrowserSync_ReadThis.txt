@@ -1,0 +1,6 @@
+Browersyns:
+/** Start browsersync from and for current directory */
+browser-sync start --server --directory --files "*"
+
+GitHub:
+/** Set-up GitHub to upload project */
